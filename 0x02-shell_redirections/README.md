@@ -1,1 +1,1 @@
-Display the last 10 lines of /etc/passwd
+ a script that displays a confused smiley "(Ôo)"
