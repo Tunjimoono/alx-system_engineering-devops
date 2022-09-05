@@ -1,1 +1,1 @@
-content of the /etc/passwd file
+content of /etc/passwd and /etc/hosts
